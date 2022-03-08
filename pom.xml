@@ -58,7 +58,7 @@
         <hibernate.version>5.4.12.Final</hibernate.version>
         <!-- The liquibase version should match the one managed by
         https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-dependencies/${spring-boot.version} -->
-        <liquibase.version>3.8.8</liquibase.version>
+        <liquibase.version>4.8.0</liquibase.version>
         <r2dbc-h2.version>0.8.1.RELEASE</r2dbc-h2.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
         <jaxb-runtime.version>2.3.2</jaxb-runtime.version>
